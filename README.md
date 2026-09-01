@@ -28,17 +28,22 @@
 🎓 B.Tech Computer Science Engineering undergraduate with a strong interest in
 <b>Artificial Intelligence, Machine Learning, backend systems, security, and research.</b>
 <br>
+
 🤖 Currently exploring <b>Multi-Agent AI, LLM applications, RAG, and intelligent orchestration.</b>
 <br>
+
 🧠 I've built systems ranging from <b>Transformer-based NLP + Explainable AI</b>
 to concurrent multi-user backend architectures.
 <br>
+
 🔐 During my research internship at <b>DRDO – CAIR</b>, I worked on
 <b>post-quantum cryptography</b> and designed HBKA, a hash-based key agreement protocol.
 <br>
+
 🚀 Currently building <b>AnushthanAI</b> — a multi-agent AI system with specialized
 agents for vision, catalog processing, pricing, voice interaction, and orchestration.
 <br>
+
 💡 I enjoy understanding systems deeply, breaking complex problems down,
 and turning ideas into working software.
 
@@ -83,13 +88,9 @@ and turning ideas into working software.
 
 An AI-assisted product listing system built around a
 <b>multi-agent architecture</b>.
-
-<br><br>
-
-The current system includes specialized agents for:
-
 <br>
-
+The current system includes specialized agents for:
+<br>
 👁️ <b>Vision Analysis</b>
 
 📚 <b>Catalog Processing</b>
@@ -100,8 +101,7 @@ The current system includes specialized agents for:
 
 🧠 <b>Agent Orchestration</b>
 
-<br><br>
-
+<br>
 The project also contains a retrieval component that can be evolved toward
 a stronger <b>RAG architecture</b>.
 
@@ -122,8 +122,7 @@ a stronger <b>RAG architecture</b>.
 An explainable toxicity detection system built using a fine-tuned
 <b>Toxic-BERT</b> model.
 
-<br><br>
-
+<br>
 🎯 <b>98% accuracy</b> on the toxicity dataset
 
 🔍 Token-level interpretability using <b>LIME</b>
@@ -149,8 +148,7 @@ An explainable toxicity detection system built using a fine-tuned
 A backend-focused hospital management system engineered around
 Node.js's <b>non-blocking, event-driven architecture</b>.
 
-<br><br>
-
+<br>
 ⚡ Concurrent multi-user request handling
 
 🔌 15+ RESTful APIs
@@ -232,8 +230,7 @@ During my <b>Research Internship at DRDO – CAIR, Bengaluru</b>, I worked on
 <b>HBKA (Hash-Based Key Agreement)</b>, a novel post-quantum protocol using
 hash-based primitives.
 
-<br><br>
-
+<br>
 🔐 SPHINCS+
 
 🔑 SHA-256
