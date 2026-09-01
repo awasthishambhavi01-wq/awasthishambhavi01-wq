@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/awasthishambhavi01-wq">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=210&color=0:1e1e2f,50:2d2b52,100:0f0c29&text=Shambhavi%20Awasthi&fontSize=54&fontColor=E8E8FF&fontAlignY=38&animation=fadeIn&desc=AI%20%C2%B7%20ML%20%C2%B7%20Multi-Agent%20AI%20%C2%B7%20Cryptography&descSize=17&descColor=8FE3FF&descAlignY=62" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8E2DE2,100:4A00E0&text=Shambhavi%20Awasthi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&stroke=00FFFF&strokeWidth=1.5&desc=AI%20%C2%B7%20ML%20%C2%B7%20Multi-Agent%20AI%20%C2%B7%20Cryptography&descSize=18&descAlignY=62" />
 </a>
 <p align="center">
   <a href="https://git.io/typing-svg">
