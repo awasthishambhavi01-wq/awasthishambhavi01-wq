@@ -27,28 +27,18 @@
 
 🎓 B.Tech Computer Science Engineering undergraduate with a strong interest in
 <b>Artificial Intelligence, Machine Learning, backend systems, security, and research.</b>
-
-<br><br>
-
+<br>
 🤖 Currently exploring <b>Multi-Agent AI, LLM applications, RAG, and intelligent orchestration.</b>
-
-<br><br>
-
+<br>
 🧠 I've built systems ranging from <b>Transformer-based NLP + Explainable AI</b>
 to concurrent multi-user backend architectures.
-
-<br><br>
-
+<br>
 🔐 During my research internship at <b>DRDO – CAIR</b>, I worked on
 <b>post-quantum cryptography</b> and designed HBKA, a hash-based key agreement protocol.
-
-<br><br>
-
+<br>
 🚀 Currently building <b>AnushthanAI</b> — a multi-agent AI system with specialized
 agents for vision, catalog processing, pricing, voice interaction, and orchestration.
-
-<br><br>
-
+<br>
 💡 I enjoy understanding systems deeply, breaking complex problems down,
 and turning ideas into working software.
 
@@ -228,11 +218,9 @@ C++ • Python • JavaScript • React.js • Node.js • Express.js
 
 MongoDB • SQL • PyTorch • Transformers • LIME • SHAP
 
-REST APIs • JWT • Concurrent Systems • Event-Driven Architecture
+REST APIs • JWT • Concurrent Systems • Machine Learning • NLP • Explainable AI • Multi-Agent AI • RAG
 
-Machine Learning • NLP • Explainable AI • Multi-Agent AI • RAG
-
-Git • GitHub • Postman • Qiskit • Google Colab
+Git • GitHub • Postman • Google Colab
 
 </div>
 
@@ -250,8 +238,6 @@ hash-based primitives.
 
 🔑 SHA-256
 
-🧩 HKDF
-
 ⚛️ Quantum attack analysis
 
 🛡️ Grover's & Shor's attack resistance
@@ -265,11 +251,7 @@ hash-based primitives.
 
 Interested in the intersection of
 <b>Quantum Computing × Cryptography × Security</b>
-
-<br><br>
-
-Worked with <b>Qiskit</b> for quantum simulation and research involving
-quantum algorithms and cryptographic implications.
+<br>
 
 </p>
 
@@ -281,14 +263,6 @@ quantum algorithms and cryptographic implications.
   <img src="https://img.shields.io/badge/Research-Springer%20Indexed-00FFFF?style=for-the-badge" alt="Research"/>
   <img src="https://img.shields.io/badge/DRDO-Research%20Intern-00FFFF?style=for-the-badge" alt="DRDO"/>
 </div>
-
-<h2 align="left">📊 GitHub Stats</h2>
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=awasthishambhavi01-wq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=awasthishambhavi01-wq&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</p>
 
 <h2 align="left">🧩 LeetCode</h2>
 <p align="center">
