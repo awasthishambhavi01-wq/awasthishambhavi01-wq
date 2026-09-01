@@ -299,8 +299,6 @@ Interested in the intersection of
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=gradient" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=0:C2185B,35:FF69B4,70:FFB6C1,100:FFD1DC" />
 </div>
-
 
